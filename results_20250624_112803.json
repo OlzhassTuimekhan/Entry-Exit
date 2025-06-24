@@ -1,0 +1,16 @@
+{
+  "in_count": 1,
+  "out_count": 2,
+  "net_count": -1,
+  "total_detections": 1307,
+  "elapsed_time": 178.52524733543396,
+  "frames_processed": 2828,
+  "fps": 15.840896692255663,
+  "timestamp": "2025-06-24T11:28:03.941123",
+  "line_coordinates": [
+    260,
+    312,
+    448,
+    179
+  ]
+}
