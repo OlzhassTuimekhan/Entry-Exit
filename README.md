@@ -208,14 +208,6 @@ v1.0
 ✅ Базовый функционал подсчета
 ✅ Интеграция YOLOv8 + DeepSORT
 
-
-
-
-
-
-
-
-
 # People IN/OUT Counter
 
 Real-time people counting system that tracks individuals crossing a user-defined line in video streams using YOLOv8 and DeepSORT.
